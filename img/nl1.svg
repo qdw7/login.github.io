@@ -1,0 +1,7 @@
+<svg width="300px" height="300px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Знак 4.1.3 - Движение налево</title>
+  <desc>Этот векторный рисунок принадлежит сайту ruspdd.com.</desc>
+  <circle cx="150" cy="150" r="148" fill="#fff" stroke="#000" stroke-width="4" />
+  <circle cx="150" cy="150" r="140" fill="#0482cc" />
+  <path fill="#fff" d="M 42 138 l 66 38 v-24 h65.5 a 19 19 0 0 1 20 20 v113 a 120 120 0 0 0 28 -13 v-102 a 46.5 46.5 0 0 0 -46 -46 h-67.5 v-24 z" />
+<text x="50%" y="50%" dx="1,1,1,1,1,1,1,1,1,1" fill="white" fill-opacity="20%" stroke-opacity="5%" stroke="black" stroke-width="2" text-anchor="middle" font-size="30px" font-weight="bold" font-family="Arial">ruspdd.com</text></svg>
